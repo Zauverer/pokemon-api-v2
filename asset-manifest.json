@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Zauverer/pokemon-api-v2/tree/main/src/static/css/main.bac19a5e.css",
+    "main.js": "/Zauverer/pokemon-api-v2/tree/main/src/static/js/main.b6293d94.js",
+    "index.html": "/Zauverer/pokemon-api-v2/tree/main/src/index.html",
+    "main.bac19a5e.css.map": "/Zauverer/pokemon-api-v2/tree/main/src/static/css/main.bac19a5e.css.map",
+    "main.b6293d94.js.map": "/Zauverer/pokemon-api-v2/tree/main/src/static/js/main.b6293d94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bac19a5e.css",
+    "static/js/main.b6293d94.js"
+  ]
+}
